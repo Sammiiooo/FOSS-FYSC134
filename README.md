@@ -1,3 +1,7 @@
 # FOSS-FYSC134
-FOSS PRACTICAL BATCH 3
-SAMUEL WAGHMARE FYCS 198134
+#include<stdio.h>
+voidmain()
+{
+  printf("hello world")
+  }
+  
